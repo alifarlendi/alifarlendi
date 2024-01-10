@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alifarlendi
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alif Arlendi Putra Priyanto
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alifarlendi123@gmail.com
