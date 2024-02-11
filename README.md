@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alif Arlendi Putra Priyanto
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me alifarlendi123@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I'm cool
